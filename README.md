@@ -1,0 +1,2 @@
+# Lemari-shopee-product-sales-performance-prediction_Classification
+Penerapan algoritma Naive bayes, Decision tree, Support Vector Machine, K-Nearest Neighbor, dan Random forest digunakan untuk memprediksi performa penjualan produk lemari pada e-commerce Shopee dengan mengklasifikasikan jumlah produk lemari yang terjual menjadi tiga kelas yakni kurang laris, cukup laris, dan sangat laris berdasar atribut yang mempengaruhi.
